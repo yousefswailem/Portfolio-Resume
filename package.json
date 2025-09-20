@@ -1,5 +1,5 @@
 {
-  "homepage": "https://developerfolio.js.org/",
+  "homepage": "https://yousefswailem.github.io/my-app/",
   "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,7 @@
     "colorthief": "^2.3.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "jest-canvas-mock": "^2.3.1",
     "lottie-react": "^2.4.0",
     "react": "^16.10.2",
@@ -54,5 +54,16 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "dotenv": "^8.2.0",
     "prettier": "^2.3.1"
+  },
+  "description": "<p align=\"center\">   <kbd> <img src=\"https://user-images.githubusercontent.com/53429438/106779355-e9cd9e80-666c-11eb-9417-8a4b54441bc6.gif\"></img>   </kbd> </p>",
+  "main": "fetch.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadpasta/developerFolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saadpasta/developerFolio/issues"
   }
 }
